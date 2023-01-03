@@ -1,2 +1,0 @@
-"hi , hello " 
-"third time hi , hello" 
